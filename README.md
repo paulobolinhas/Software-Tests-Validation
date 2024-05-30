@@ -16,3 +16,4 @@ build/reports/tests
 
 The report will have a breakdown of the tests that were executed, smilarly to:
 ![test_results.png](images%2Ftest_results.png)
+
